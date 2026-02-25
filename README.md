@@ -25,6 +25,3 @@ So this code will create 3 Individual folders (Excel Folder, Text Folder & BMP F
 Before → all files mixed in one folder
 After  → sorted into bmp_Files, xlsx_Files, txt_Files
 
-## Before Running Code:
-
-## After Running Code:
