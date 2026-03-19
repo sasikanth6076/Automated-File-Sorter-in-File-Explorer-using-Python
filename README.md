@@ -23,7 +23,6 @@ So this code will create 3 Individual folders (Excel Folder, Text Folder & BMP F
 
 ## 📂 Folder Structure    
 Before → all files mixed in one folder
-![Before](Images/Before.png)
 
 After  → sorted into bmp_Files, xlsx_Files, txt_Files
-![After](Images/After2.png)
+
